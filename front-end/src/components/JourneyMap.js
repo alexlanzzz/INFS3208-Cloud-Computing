@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyA5XARq7HWdb2_qRBQB3bPTP_ZKJoaIJeM';
+const GOOGLE_MAPS_API_KEY = 'AIzaSyARTpZgR212_iZUL5glYw4sF-pxRat_DOY';
 const JOURNEY_STORAGE_KEY = 'frame8.myJourney.v1';
 const MAP_CACHE_KEY = 'frame8.mapGeocodeCache.v1';
 const FIFTEEN_MINUTES = 15 * 60 * 1000;
